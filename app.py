@@ -44,7 +44,7 @@ def getDistance():
         except:
             pass                            
         
-        response={"status":status,"statuscode":statusCode,"data":data}
+        response={"status12":status,"statuscode":statusCode,"data":data}
         return response
 
 if __name__ == '__main__':
